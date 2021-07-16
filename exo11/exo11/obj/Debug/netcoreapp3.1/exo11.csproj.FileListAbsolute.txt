@@ -1,0 +1,12 @@
+/Users/mahasaad/Projects/exo11/exo11/bin/Debug/netcoreapp3.1/exo11.deps.json
+/Users/mahasaad/Projects/exo11/exo11/bin/Debug/netcoreapp3.1/exo11.runtimeconfig.json
+/Users/mahasaad/Projects/exo11/exo11/bin/Debug/netcoreapp3.1/exo11.runtimeconfig.dev.json
+/Users/mahasaad/Projects/exo11/exo11/bin/Debug/netcoreapp3.1/exo11.dll
+/Users/mahasaad/Projects/exo11/exo11/bin/Debug/netcoreapp3.1/exo11.pdb
+/Users/mahasaad/Projects/exo11/exo11/obj/Debug/netcoreapp3.1/exo11.csprojAssemblyReference.cache
+/Users/mahasaad/Projects/exo11/exo11/obj/Debug/netcoreapp3.1/exo11.AssemblyInfoInputs.cache
+/Users/mahasaad/Projects/exo11/exo11/obj/Debug/netcoreapp3.1/exo11.AssemblyInfo.cs
+/Users/mahasaad/Projects/exo11/exo11/obj/Debug/netcoreapp3.1/exo11.csproj.CoreCompileInputs.cache
+/Users/mahasaad/Projects/exo11/exo11/obj/Debug/netcoreapp3.1/exo11.dll
+/Users/mahasaad/Projects/exo11/exo11/obj/Debug/netcoreapp3.1/exo11.pdb
+/Users/mahasaad/Projects/exo11/exo11/obj/Debug/netcoreapp3.1/exo11.genruntimeconfig.cache
